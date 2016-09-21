@@ -78,9 +78,18 @@
     {
       "enabled"       : true
     },
-    "tactile":
+    "touch_hand":
     {
       "enabled"       : true
+    },
+    "touch_head":
+    {
+      "enabled"       : true
+    },
+    "odom":
+    {
+      "enabled"       : true,
+      "frequency"     : 15
     }
   }
 }
